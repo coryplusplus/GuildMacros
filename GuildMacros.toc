@@ -1,0 +1,10 @@
+## Interface: 40000
+## Title: GuildMacros
+## Author: Cory Kelly
+## Version: 1.1
+## Notes: Provides an easy way to share macros. You can share macros with the guild or a specific person. You will always be able to recieve macros but only those specified as moderators will be allowed to send.
+## eMail: coryplusplus@gmail.com
+## DefaultState: Enabled
+## LoadOnDemand: 0
+GuildMacros.lua
+RequestForm.xml
